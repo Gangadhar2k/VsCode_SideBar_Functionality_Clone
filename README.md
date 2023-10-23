@@ -1,0 +1,2 @@
+# VsCode_SideBar_Functionality_Clone
+Created with CodeSandbox
